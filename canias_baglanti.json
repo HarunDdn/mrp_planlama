@@ -1,0 +1,7 @@
+{
+  "aciklama": "CANIAS SQL Server baglantisi (excel_kurulum.py bunu MRP_Girdi.xlsm > gizli CANIAS sayfasina yazar). Sifreyi BURAYA YAZMAYIN: butona ilk basista sorulur. Sunucu adindaki ters bolu iki kez yazilir.",
+  "sunucu": "DEBAKNETSIS\\DB20",
+  "veritabani": "DEBAK803",
+  "kullanici": "rapor_okuyucu",
+  "surucu": "ODBC Driver 17 for SQL Server"
+}
