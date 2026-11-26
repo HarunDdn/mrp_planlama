@@ -1,0 +1,19 @@
+# Sirket verisi - public repoya gonderilmez
+MRP_Girdi.xlsm
+MRP_Girdi.xlsx
+MRP_Plan_Girdi.xlsx
+MRP_Sonuc.xlsx
+MRP_Cizelge.html
+MRP DENEME.xlsx
+yedek/
+Claude outputs/
+*.trace.txt
+
+# CANIAS baglanti bilgisi ve sorgulari
+canias_baglanti.json
+*.sql
+
+# Excel / Python gecici dosyalari
+~$*
+__pycache__/
+*.pyc

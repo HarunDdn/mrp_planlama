@@ -1,0 +1,89 @@
+{
+  "kaydedildi": "başlangıç ayarları",
+  "plan": {
+    "baslangic": "2026-11-25",
+    "aktarma": "GUNLUK",
+    "aktarma_partisi": 0,
+    "ufuk": 1100,
+    "siralama": "EDD",
+    "gunluk_is_cesidi": 1,
+    "min_kalip_kalis": 0,
+    "tatiller": "",
+    "senaryo": "HAYIR",
+    "satinalma": "HAYIR",
+    "haric_depolar": [
+      "400",
+      "500"
+    ],
+    "is_basina_kaynak": 1,
+    "takviye_payi": 2,
+    "erken_sevkiyat": "HAYIR"
+  },
+  "varsayilan": {
+    "kisi": {
+      "saat": 9,
+      "gunler": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0
+      ]
+    },
+    "operator": {
+      "saat": 8,
+      "gunler": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ]
+    },
+    "makine": {
+      "saat": 24,
+      "gunler": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ]
+    },
+    "kalip": {
+      "saat": 24,
+      "gunler": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ]
+    },
+    "firin": {
+      "saat": 24,
+      "gunler": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ]
+    }
+  },
+  "operator": {
+    "katsayi": 1,
+    "kisit": true
+  },
+  "kaynaklar": {}
+}

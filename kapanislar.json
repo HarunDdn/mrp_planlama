@@ -1,0 +1,53 @@
+{
+  "kaydedildi": "17.11.2026 13:35:15",
+  "kapanislar": [
+    {
+      "kaynak": "1027",
+      "bas": "2026-11-16",
+      "bit": "2026-11-29",
+      "tur": "IZIN",
+      "oran": 0,
+      "not": "yıllık izin"
+    },
+    {
+      "kaynak": "1045",
+      "bas": "2026-11-16",
+      "bit": "2026-11-22",
+      "tur": "IZIN",
+      "oran": 0,
+      "not": "yıllık izin"
+    },
+    {
+      "kaynak": "1229",
+      "bas": "2026-11-16",
+      "bit": "2026-11-22",
+      "tur": "IZIN",
+      "oran": 0,
+      "not": "yıllık izin"
+    },
+    {
+      "kaynak": "1249",
+      "bas": "2026-11-16",
+      "bit": "2026-11-29",
+      "tur": "IZIN",
+      "oran": 0,
+      "not": "yıllık izin"
+    },
+    {
+      "kaynak": "1368",
+      "bas": "2026-11-16",
+      "bit": "2026-11-18",
+      "tur": "IZIN",
+      "oran": 0,
+      "not": "yıllık izin"
+    },
+    {
+      "kaynak": "1461",
+      "bas": "2026-11-16",
+      "bit": "2026-11-22",
+      "tur": "IZIN",
+      "oran": 0,
+      "not": "yıllık izin"
+    }
+  ]
+}
